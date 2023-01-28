@@ -24,7 +24,6 @@ public class hesapmakinisti {
                 System.out.print(s1 * s2);
         }
         else if (sec == 4) {
-            System.out.print(s1 / s2);
             if (s2 != 0) {
                 System.out.print(s1 / s2);
             } else {
